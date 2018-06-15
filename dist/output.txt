@@ -1,0 +1,13 @@
+Loan 1
+    Principal: $100000.0
+    % Interest Rate: 4%
+    Number of days: 5 days
+    Loan Interest: $54.79
+
+Loan 2
+    Principal: $50000.0
+    % Interest Rate: 4%
+    Number of days: 11 days
+    Loan Interest: $60.27
+
+Total interest owed: $115.07
